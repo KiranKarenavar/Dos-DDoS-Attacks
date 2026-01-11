@@ -100,8 +100,44 @@ A **botnet** is a network of compromised devices controlled by an attacker (botm
 
 ---
 
+### 🕵️ DoS/DDoS Detection Techniques
+
+1. Traffic Volume Analysis
+2. Rate-based Detection (RPS, PPS)
+3. Behavioral Analysis
+4. Signature-based Detection
+5. Anomaly-based Detection
+6. Source-based Detection
+7. Protocol Analysis
+8. Flow-based Detection
+9. Entropy-based Detection
+10. Machine Learning-based Detection
+
+### Detection Tools:
+1. Snort / Suricata
+2. Wireshark
+3. SIEM Solutions
+4. Cloud-based Anti-DDoS Services
+
+---
+
+## 📊 Network Traffic Analysis
+
+Network traffic was captured and analyzed using Wireshark.
+Abnormal spikes in packets and requests were observed during attack simulations, confirming the impact of DoS/DDoS traffic.
+
+---
 ## 👤 Author
 **Kiran Karenavar**  
 Cybersecurity / Ethical Hacking Student  
 
 ---
+
+### ⚠️ Ethical Disclaimer
+
+This project is conducted strictly for educational purposes.
+All experiments were performed in a controlled lab environment.
+Unauthorized DoS/DDoS attacks on real-world systems are illegal and unethical.
+
+---
+
