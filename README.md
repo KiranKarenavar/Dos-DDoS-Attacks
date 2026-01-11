@@ -99,3 +99,9 @@ A **botnet** is a network of compromised devices controlled by an attacker (botm
 12. **Hping3** – Packet crafting and flooding  
 
 ---
+
+## 👤 Author
+**Kiran Karenavar**  
+Cybersecurity / Ethical Hacking Student  
+
+---
