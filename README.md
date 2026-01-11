@@ -141,3 +141,6 @@ Unauthorized DoS/DDoS attacks on real-world systems are illegal and unethical.
 
 ---
 
+### ✅ Conclusion
+
+This lab provided hands-on experience and theoretical knowledge of DoS and DDoS attacks, their tools, detection methods, and mitigation strategies. The project emphasizes ethical cybersecurity practices and the importance of securing modern systems against denial-of-service threats.
